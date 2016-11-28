@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "myTest/ViewController.swift"
-            timestampString = "502043747.024958"
+            timestampString = "502044546.750535"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
             landmarkName = "didReceiveMemoryWarning()"
             landmarkType = "7">
          </BreakpointContent>
